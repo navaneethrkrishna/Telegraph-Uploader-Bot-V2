@@ -55,21 +55,21 @@ HELP_TEXT = """**Hey, Follow these steps:**
 /about - For more about me
 /status - For bot updates
 
-Made by @Mo_Tech_YT"""
+Made by @CM_VILLAGROUP"""
 
 ABOUT_TEXT = """--**About Me**-- 😎
 
 🤖 **Name :** [Telegraph Uploader](https://telegram.me/{})
 
-👨‍💻 **Developer :** [Fayas](https://github.com/FayasNoushad)
+👨‍💻 **Developer :** [Fayas](https://github.com/navaneethrkrishna/Telegraph-Uploader-Bot-V2)
 
-👨‍💻 **Editor :** [Muhammed](https://github.com/Mrk_yt)
+👨‍💻 **Editor :** [Master](https://github.com/navaneethrkrishna/Telegraph-Uploader-Bot-V2/edit/main/main.py)
 
-📢 **Channel :** [Mo Tech Channel](https://telegram.me/Mo_Tech_YT)
+📢 **Channel :** [Movies Channel](https://t.me/New_MoviesTG)
 
-👥 **Group :** [Mo Tech Group](https://telegram.me/Mo_Tech_Group)
+👥 **Group :** [Movies Group](https://t.me/CM_VILLAGROUP)
 
-🌐 **Source :** [👉 Click here](https://github.com/MRK-YT/Telegraph-Uploader-Bot-V2)
+🌐 **Source :** [👉 Click here](https://github.com/navaneethrkrishna/Telegraph-Uploader-Bot-V2)
 
 📝 **Language :** [Python3](https://python.org)
 
